@@ -1,4 +1,4 @@
-# My First GitHub Project
+# Data Science Journey
 
 Welcome to my first GitHub repository! 🚀
 
