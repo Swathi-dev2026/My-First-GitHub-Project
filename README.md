@@ -24,4 +24,14 @@ Stay tuned as I continue adding projects and improving my skills!
 
 ## Day 1
 
-Learning Git and GitHub with VS Code.
+Learning Git and GitHub with VS Code. And completed variables and data types in python.
+
+## Day 2
+
+Completed operators in python.
+
+## Day 3
+
+Completed input and output in python.
+
+
